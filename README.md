@@ -5,7 +5,7 @@ MailHub 是一个轻量、自托管、本地优先的统一邮箱管理工具，
 
 
 # 谷歌项目配置
-[谷歌项目配置](docs/GoogleOAuth.md)
+[谷歌项目配置](https://github.com/WishMelz/MailHub/blob/docs/docs/GoogleOAuth.md)
 
 # 微软项目配置
-[微软项目配置](docs/MicrosoftOAuth.md)
+[微软项目配置](https://github.com/WishMelz/MailHub/blob/docs/docs/MicrosoftOAuth.md)
